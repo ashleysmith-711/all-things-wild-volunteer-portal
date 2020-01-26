@@ -3,3 +3,16 @@
 
 @import "layout";
 @import "navbar";
+
+h1 {
+  font-size: 28px;
+}
+body {
+  background-color: green;
+}
+.volunteer-search-form {
+  background-color: white;
+  border: 1px solid orange;
+  padding: 25px;
+  margin-bottom: 50px;
+}
